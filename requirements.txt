@@ -1,8 +1,18 @@
 # --- For-Bot-Working --------- #
-pyrogram
+git+https://github.com/KurimuzonAkuma/pyrogram
 TgCrypto
-pyromod==1.5
+pyromod
+# --- For-Database ------------ #
 pymongo
+motor
+umongo
 dnspython
+marshmallow
+# --- For-Web-Response ------- #
+pytz
+requests
+bs4
+shortzy
 aiohttp
-humanize
+aiofiles
+asyncio
